@@ -13,4 +13,4 @@ You can also get a copy of this repo from [Matlab Central File Exchange].
 a.semechko@gmail.com
 
 [Image Processing Toolbox]: https://www.mathworks.com/products/image.html
-[MIT]: 
+[MIT]: https://github.com/AntonSemechko/Fast-Fuzzy-C-Means-Segmentation/blob/master/LICENSE.md
